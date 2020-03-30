@@ -24,9 +24,11 @@
 [W3SCHOOLS localStorage](https://www.w3schools.com/html/html5_webstorage.asp).  
 
 ---   
+## Request
 ### XMLHttpRequest
 [MDN XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest).  
-[W3SCHOOLS XMLHttpRequest](https://www.w3schools.com/js/js_ajax_http.asp).  
+[W3SCHOOLS XMLHttpRequest](https://www.w3schools.com/js/js_ajax_http.asp).   
+
 ---   
 
 
