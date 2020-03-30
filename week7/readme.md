@@ -47,6 +47,7 @@
  
 Deze functie doet nog niets omdat we geen data hebben. De volgende regel zal de gegevens aan de data toevoegen:    
 `    let applicationData  = "application/json;charset=utf-8,"
-        + encodeURIComponent(JSON.stringify(objectArray));`.   
+        + encodeURIComponent(JSON.stringify(objectArray));`.    
+        
 `json.href      = 'data:' + applicationData;`.    
 
