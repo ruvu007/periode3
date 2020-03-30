@@ -39,11 +39,14 @@
 
 - In de functie zet je een variabele die verwijst naar het json id van je HTML bestand.   
 - Maak een <a> tag met createElement aan
-- href wordt data
+- Voeg hier een data attribute, een download attribute en innerHTML met de tekst van je link aan toe
+     
 - download wordt de naam van het bestand (json.json)
 - geef een tekst voor de link 
 - Voeg het element toe aan je id (appendChild)
  
 Deze functie doet nog niets omdat we geen data hebben. De volgende regel zal de gegevens aan de data toevoegen:    
 `    let applicationData  = "application/json;charset=utf-8,"
-        + encodeURIComponent(JSON.stringify(objectArray));`
+        + encodeURIComponent(JSON.stringify(objectArray));`.   
+`json.href      = 'data:' + applicationData;`.    
+
