@@ -11,8 +11,8 @@
 ## JSON
 ### stringify
 ### parse
-[MDN JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify). 
- [W3SCHOOLS JSON](https://www.w3schools.com/js/js_json_stringify.asp). 
+[MDN JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify).  
+ [W3SCHOOLS JSON](https://www.w3schools.com/js/js_json_stringify.asp).  
  
 
 
