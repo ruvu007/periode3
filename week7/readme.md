@@ -30,8 +30,7 @@
 ---   
 
 
-## Opdracht
-
+## Opdracht 1.
 - Maak in je project een div aan met een id 'json'
 - Maak een functie aan met de naam createJSON, geen argumenten nodig
 
@@ -48,4 +47,14 @@ Deze functie doet nog niets omdat we geen data hebben. De volgende regels zal de
         + encodeURIComponent(JSON.stringify(objectArray));`.    
         
 `json.href      = 'data:' + applicationData;`.    
+
+
+## Opdracht 2.
+Om deze opdracht te maken lees de links die hierboven staan voor JSON, en localStorage
+- Schrijf je gehele array naar de localStorage. Hiervoor gebruik je de JSON method om variabelen naar tekst te converteren. Gebruik als key een geschikte naam voor het item.
+- Schrijf een object uit je array naar de localStorage. Gebruik als key de naam van de afbeelding.
+
+
+- Haal je gegevens op uit de localStorage en toon de inhoud op de console of in een alert.
+
 
