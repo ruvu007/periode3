@@ -42,3 +42,8 @@
 - href wordt data
 - download wordt de naam van het bestand (json.json)
 - geef een tekst voor de link 
+- Voeg het element toe aan je id (appendChild)
+ 
+Deze functie doet nog niets omdat we geen data hebben. De volgende regel zal de gegevens aan de data toevoegen:    
+`    let applicationData  = "application/json;charset=utf-8,"
+        + encodeURIComponent(JSON.stringify(objectArray));`
