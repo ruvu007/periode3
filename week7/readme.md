@@ -37,8 +37,8 @@
 - Maak een functie aan met de naam createJSON, geen argumenten nodig
 
 - In de functie zet je een variabele die verwijst naar het json id van je HTML bestand.   
-- Maak een <a> tag met createElement aan
-- Voeg hier een data attribute, een download attribute en innerHTML met de tekst van je link aan toe
+- Maak een variabele (json) aan waarin je een <a> tag met createElement maakt
+- Voeg aan deze variabel een data attribute, een download attribute en innerHTML met de tekst van je link aan toe
      
 - download wordt de naam van het bestand (json.json)
 - geef een tekst voor de link 
@@ -55,8 +55,12 @@ Deze functie doet nog niets omdat we geen data hebben. De volgende regels zal de
 Om deze opdracht te maken lees de links die hierboven staan voor JSON, en localStorage
 - Schrijf je gehele array naar de localStorage. Hiervoor gebruik je de JSON method om variabelen naar tekst te converteren. Gebruik als key een geschikte naam voor het item.
 - Schrijf een object uit je array naar de localStorage. Gebruik als key de naam van de afbeelding.
+- Maak een object aan met gegevens die jij met behulp van localStorage gaat gebruiken voor je project the Wall. Denk bijvoorbeeld aan gebruikersnamen, styling. Gebruik je fantasie.
+- Schrijf dit object ook weg in de localStorage. Gebruik je hiervoor de stringify method of juist niet?
 
 
 - Haal je gegevens op uit de localStorage en toon de inhoud op de console of in een alert.
 
+## Opdracht 3.
+- Maak een object aan waarin je een afbeeldingsnaam en het aantal likes opgeeft.
 
