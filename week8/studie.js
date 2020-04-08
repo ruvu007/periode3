@@ -34,9 +34,15 @@ student008.les('SEC');
 student008.les('TDD');
 console.log(student008);
 
-// student008.show = function() {
-//     student008.lessen.forEach(function(element) {
-//         console.log(element);
-//     })
-// }
-// student008.show();
+ student008.show = function() {
+     student008.lessen.forEach(function(element) {
+         console.log(element);
+     })
+ }
+student008.show();
+
+student007.show = function() {
+    student007.lessen.forEach(function(element) {
+        console.log(element);
+    })
+}

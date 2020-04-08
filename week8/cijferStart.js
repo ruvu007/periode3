@@ -18,6 +18,7 @@ function Cijfer(opdracht, cijfer) {
 
     cijferObj.opdracht = opdracht;
     cijferObj.cijfer = cijfer;
+    cijfer.push;
 }
 
 // OPDRACHT 2.
@@ -64,15 +65,6 @@ opdrachten.push(opdracht8);
 opdrachten.push(opdracht9);
 
 let cijfers = [];
-cijfers.push(cijfer1);
-cijfers.push(cijfer2);
-cijfers.push(cijfer3);
-cijfers.push(cijfer4);
-cijfers.push(cijfer5);
-cijfers.push(cijfer6);
-cijfers.push(cijfer7);
-cijfers.push(cijfer8);
-cijfers.push(cijfer9);
 
 
 function Periode (opdrachten, cijfers) {
